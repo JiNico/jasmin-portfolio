@@ -1,6 +1,6 @@
 ---
 title: "Laundry Day"
-date: 2025-05-20
+date: 2025-03-10
 draft: false
 summary: ""
 tags: ["space"]

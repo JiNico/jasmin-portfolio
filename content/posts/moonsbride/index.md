@@ -1,6 +1,6 @@
 ---
 title: "The Moon's Bride"
-date: 2025-05-20
+date: 2025-02-25
 draft: false
 summary: ""
 tags: ["space"]
