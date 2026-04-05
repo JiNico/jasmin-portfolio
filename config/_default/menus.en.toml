@@ -17,7 +17,7 @@
 
 #[[main]]
 #  name = "Parent"
-#  weight = 20
+#  weight = 10
 
 #[[main]]
 #  name = "example sub-menu 1"
