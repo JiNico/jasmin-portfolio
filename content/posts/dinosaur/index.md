@@ -11,4 +11,8 @@ tags: ["space"]
 
 In this 2D platformer and 3D walking simulator hybrid game, you're transported into the body of the T. rex, and you're taken through the inner workings of the seemingly normal browser game. Explore the game and uncover the oddities beneath the innocent facade.
 
+
+Exhibited at the UC Davis Cinema & Digital Media End-of-the-Year Showcase
+
+
 Made in Unity 3D.
