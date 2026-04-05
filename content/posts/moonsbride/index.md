@@ -3,7 +3,7 @@ title: "The Moon's Bride"
 date: 2025-02-25
 draft: false
 summary: ""
-tags: ["space"]
+tags: ["Visual Novel", "Ren'py"]
 ---
 <iframe frameborder="0" src="https://itch.io/embed/3294477?link_color=327345" width="552" height="167"><a href="https://jinico.itch.io/the-moons-bride">The Moon's Bride by JiNico</a></iframe>
 

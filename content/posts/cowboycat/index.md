@@ -3,7 +3,7 @@ title: "Cowboy Cat"
 date: 2025-04-20
 draft: false
 summary: ""
-tags: ["space"]
+tags: ["2D", "Unity"]
 ---
 <iframe frameborder="0" src="https://itch.io/embed/3514528?link_color=327345" width="552" height="167"><a href="https://jinico.itch.io/cowboy-cat">Cowboy Cat by JiNico</a></iframe>
 

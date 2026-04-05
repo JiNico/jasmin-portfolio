@@ -3,7 +3,7 @@ title: "Pay-to-Heal"
 date: 2025-05-25
 draft: false
 summary: ""
-tags: ["space"]
+tags: ["2D", "Unity"]
 ---
 <iframe frameborder="0" src="https://itch.io/embed/3584592?link_color=327345" width="552" height="167"><a href="https://jinico.itch.io/pay-to-heal">Pay-to-Heal by JiNico</a></iframe>
 

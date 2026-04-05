@@ -3,7 +3,7 @@ title: "pov: you're the dinosaur"
 date: 2025-06-02
 draft: false
 summary: ""
-tags: ["space"]
+tags: ["2D", "3D", "Unity"]
 ---
 <iframe frameborder="0" src="https://itch.io/embed/3599777?link_color=327345" width="552" height="167"><a href="https://jinico.itch.io/pov-youre-the-dinosaur">pov: you're the dinosaur by JiNico</a></iframe>
 
